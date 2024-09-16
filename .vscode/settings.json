@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "encryption.h": "c",
+    "stdlib.h": "c",
+    "string.h": "c",
+    "evp.h": "c"
+  }
+}
